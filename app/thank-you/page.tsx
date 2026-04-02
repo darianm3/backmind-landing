@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { supabase } from '@/lib/supabase'
 import { redirect } from 'next/navigation'
 import { CopyButton, ShareTextCopyButton } from './copy-buttons'
@@ -68,13 +69,13 @@ export default async function ThankYouPage({
       {/* NAV */}
       <nav>
         <div className="container">
-          <a href="/" className="logo">
+          <Link href="/" className="logo">
             <LogoMark size={32} className="logo-mark" />
             <span className="logo-wordmark">
               <span className="back">Back</span>
               <span className="mind">mind</span>
             </span>
-          </a>
+          </Link>
         </div>
       </nav>
 
@@ -265,13 +266,13 @@ export default async function ThankYouPage({
       {/* FOOTER */}
       <footer>
         <div className="container">
-          <a href="/" className="logo">
+          <Link href="/" className="logo">
             <LogoMark size={28} className="logo-mark" />
             <span className="logo-wordmark">
               <span className="back">Back</span>
               <span className="mind">mind</span>
             </span>
-          </a>
+          </Link>
           <p>&copy; {new Date().getFullYear()} Backmind. All rights reserved.</p>
         </div>
       </footer>

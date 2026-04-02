@@ -1,0 +1,29 @@
+# Backmind
+
+> Your second mind for who you're becoming.
+
+Backmind is an identity-based habit tracking app that helps you manage multiple personal identities — athlete, parent, reader, founder — in one system. Instead of tracking goals, Backmind tracks who you're becoming.
+
+## Core Concepts
+
+- **Identity-based tracking**: You define the identities you're building (e.g., "Athletic Man", "Present Dad"), not just goals.
+- **Building blocks**: Positive behaviors that strengthen an identity (e.g., "Exercise 4x/week").
+- **Guardrails**: Limits that protect an identity (e.g., "≤5 beers/week").
+- **Voice-first logging**: Just talk about your day — Backmind maps actions to your identities automatically.
+- **Proactive check-ins**: Context-aware nudges at the right moments, not notification spam.
+- **Bad day mode**: When you're struggling, Backmind lowers the bar and leads with empathy.
+
+## What Makes Backmind Different
+
+Most habit apps treat you like you have one goal. Backmind holds all of your identities and stays with you when focus shifts. No streaks, no shame, no social comparison. Just a quiet companion for the person you're becoming.
+
+## Pricing
+
+- 30-day free trial with full AI, no restrictions
+- $10/month founding member rate (normally $15/month)
+- 200 founding member spots available
+- Apple subscription only, cancel anytime
+
+## Links
+
+- Website: https://backmind.app

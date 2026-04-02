@@ -546,6 +546,7 @@ section.dark .highlight {
 
 section.light-accent {
     background: #EDE8E0;
+    padding-bottom: 120px;
 }
 
 .section-number {
@@ -1468,7 +1469,7 @@ section.dark .big-quote em {
 
 /* ===== FINAL CTA ===== */
 .final-cta {
-    padding: 100px 24px;
+    padding: 120px 24px;
     text-align: center;
     background: #1A1714;
     color: white;
